@@ -1,4 +1,5 @@
 #The Caesar cipher is an algorithm that encrpyts and decrypts texts by addition and subtraction used by Julius caesar 
+#This is one of the oldest encryption techniques.
 print("Ceasar cipher by Jules Okoye-ezeh.\n")
 print("The caesar cipher encrypts letters by shifting them over by a key number.\n")
 print("for example, with a key number of 3, A becomes D and E becomes H. ")
