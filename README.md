@@ -1,5 +1,4 @@
-Hi, I’m Jules Okoye-ezeh.
-I'm an IT enthusiast, with proficiency in the Python programming language, this includes experience with Django and Flask.
+Hi, I’m Jules Okoye-ezeh, a Tech enthusiast.
 julesezeh23@gmail.com
 
 <!---
